@@ -25,3 +25,10 @@ When you edit files locally, to see your changes, run the following commands on 
 2) `git commit -m "message about what I changed"`
 3) `git push`
 4) On your heroku dashboard https://dashboard.heroku.com/apps/{appname}/deploy/github, click the "Deploy" button again.
+
+### Cheat Sheets
+#### HTML
+If you're wanting a cheat sheet (not searchable, sorry), you can find it [here](https://hostingfacts.com/wp-content/uploads/2016/06/HTML_CHEAT_SHEET_PNG.png)
+
+#### Javascript
+A vanilla javascript cheat sheet can be found [here](https://github.com/mbeaudru/modern-js-cheatsheet)
