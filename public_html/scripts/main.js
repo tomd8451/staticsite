@@ -16,3 +16,9 @@ function onClick(element) {
   var captionText = document.getElementById("caption");
   captionText.innerHTML = element.alt;
 }
+
+
+// Happens when the page has loaded
+(function() {
+  // Insert code you want to execute when the page has loaded
+})();
