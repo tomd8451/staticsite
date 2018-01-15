@@ -12,8 +12,12 @@ This repository is a static site consisting of a template from [W3Schools](https
 3) Give your app a name (this has to be unique) and click create app
 4) Under deployment method, click the "Connect to Github" link
 5) Search for staticsite, then click connect for "jdoe/staticsite"
-6) Click the "Deploy Branch" at the bottom of the page
-7) Open a new tab and navigate to https://{appname}.herokuapp.com
+6) Click on the "Settings" link
+7) Click "Add buildpack" button
+8) Add the buildpack url `https://github.com/heroku/heroku-buildpack-static.git` 
+9) Click the "Deploy" link
+10) Click the "Deploy Branch" at the bottom of the page
+11) Open a new tab and navigate to https://{appname}.herokuapp.com
 
 ### Making changes
 When you edit files locally, to see your changes, run the following commands on the command line:
